@@ -1,0 +1,18 @@
+﻿.space { display:block; padding:20px 0; }
+
+.rdo-blocks { margin-top: 8px; margin-bottom: 6px; list-style:none; padding:0;}
+.rdo-blocks li { float:left;}
+.rdo-blocks input[type=radio] { left: -10000px; position:absolute; }
+.rdo-blocks input[type=radio] + label { width: 33px; height: 34px; padding: 1px; margin: 0 9px 9px 0;
+    border: 1px solid #828385; background-clip: content-box; cursor: pointer; float: left;
+    color: #71747a;
+    font: 13px/32px HelveticaNeue, Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none; }   
+.rdo-blocks .selected,
+.rdo-blocks input[type=radio]:checked + label { border-width: 2px; line-height: 30px; border-color:#ff7455; }
+

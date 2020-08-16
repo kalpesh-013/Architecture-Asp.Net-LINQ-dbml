@@ -1,0 +1,8 @@
+G:\Kalpesh\UpWork\Code\Web\bin\Web.dll.config
+G:\Kalpesh\UpWork\Code\Web\bin\Web.dll
+G:\Kalpesh\UpWork\Code\Web\bin\Web.pdb
+G:\Kalpesh\UpWork\Code\Web\bin\Lib.dll
+G:\Kalpesh\UpWork\Code\Web\bin\Lib.pdb
+G:\Kalpesh\UpWork\Code\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+G:\Kalpesh\UpWork\Code\Web\obj\Debug\Web.dll
+G:\Kalpesh\UpWork\Code\Web\obj\Debug\Web.pdb

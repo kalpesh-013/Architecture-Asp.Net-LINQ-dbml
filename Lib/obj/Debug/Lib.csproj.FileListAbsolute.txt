@@ -1,0 +1,6 @@
+G:\Kalpesh\UpWork\Code\Lib\bin\Debug\Lib.dll.config
+G:\Kalpesh\UpWork\Code\Lib\bin\Debug\Lib.dll
+G:\Kalpesh\UpWork\Code\Lib\bin\Debug\Lib.pdb
+G:\Kalpesh\UpWork\Code\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+G:\Kalpesh\UpWork\Code\Lib\obj\Debug\Lib.dll
+G:\Kalpesh\UpWork\Code\Lib\obj\Debug\Lib.pdb
